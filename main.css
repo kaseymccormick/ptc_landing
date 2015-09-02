@@ -1,0 +1,10 @@
+.body{
+}
+header {
+    border-bottom: 1px solid #007226;
+}
+.heading__info {
+    display: inline;
+    padding-left: 60px;
+    color: #007226;
+}
