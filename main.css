@@ -1,5 +1,8 @@
 .body{
 }
+.clear{
+  clear:both;
+}
 header {
     border-bottom: 1px solid #007226;
 }
@@ -8,3 +11,52 @@ header {
     padding-left: 60px;
     color: #007226;
 }
+.directions__words{
+  padding-left:20px;
+  width:50%;
+}
+.teacher-links h1{
+  text-align:center;
+}
+.grade{
+  list-style-type:none;
+  width:100%;
+  float:left;
+  float: left;
+  width: 21%;
+}
+.grade__level {
+    color: #007226;
+    font-size: 22px;
+    
+/*    text-align: center;*/
+}
+.specialist__item {
+    width: 25%;
+    float: left;
+    padding-top: 10px;
+}
+.grade__item {
+  padding:10px 0px 0px;
+}
+a{
+  text-decoration:none;
+  color:black;
+  
+}
+a:hover{
+  text-decoration:underline;
+  color:blue;
+}
+.grade--specialists{
+  float:none;
+  width:100%
+}
+.grade__level--specialists{
+  text-align:center;
+}
+span {
+    
+    font-weight: bold;
+}
+
